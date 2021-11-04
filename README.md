@@ -10,4 +10,4 @@ KJVKBBKDJKA
   <img src="3.PNG" width="250" height="250" />
 </p>
 
-<img src="run_prog.gif" width="600" height="600"/>
+<img src="run_prog.gif" width="650" height="500"/>
