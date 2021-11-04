@@ -10,4 +10,4 @@ KJVKBBKDJKA
   <img src="3.PNG" width="250" height="250" />
 </p>
 
-![Screenshot](run_prog.gif)
+<img src="run_prog.gif" width="600" height="600"/>
