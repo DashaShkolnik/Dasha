@@ -5,5 +5,9 @@
 
 
 ![Screenshot](4.png)
-![Screenshot](1.PNG)![Screenshot](2.PNG)![Screenshot](3.PNG)
-<img src="4.png" width="100" height="100"/>
+
+<p float="left">
+  <img src="1.PNG" width="100" height="100"/>
+  <img src="2.PNG" width="100" height="100"/> 
+  <img src="3.PNG" width="100" height="100" />
+</p>
