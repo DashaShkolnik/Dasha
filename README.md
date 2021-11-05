@@ -33,6 +33,8 @@ As a part of my physical investigation, I researched some simple coding systems 
 For me it was a life-changing field of knowledge, because now I am interested in learning how to integrate my art ills on the new level of technology and create innovative art pieces. I believe that changes would always lead to a better working practice and my own development as a designer and artist. Generative art gives you a lot of areas where you can show your skills and create amazing art pieces with a number of special effec colours and lighting, which cannot be physically obtained in real life painting, for example. Nevertheless, you still don’t lose your unique style of drawing/printing/photographing/film making, but rather integrate your practice to the mechanical processes and gain an ability to produce a larger number of art pieces or designs with the sense of randomness. Now, I know that I was wrong that I limited myself and didn’t want to learn how to code. Today, I see a great opportunity how to grow together with art and computers!
 
 
+
+
 https://www.artlebedev.com/ironov/
 https://booksc.org/book/8989207/bdc372
 https://booksc.org/book/81336155/d2fbd8
