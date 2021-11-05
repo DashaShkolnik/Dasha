@@ -35,8 +35,8 @@ For me it was a life-changing field of knowledge, because now I am interested in
 
 
 
-https://www.artlebedev.com/ironov/
-https://booksc.org/book/8989207/bdc372
+<https://www.artlebedev.com/ironov/>
+<https://booksc.org/book/8989207/bdc372>
 https://booksc.org/book/81336155/d2fbd8
 https://aiartists.org/generative-art-design
 https://en.wikipedia.org/wiki/Generative_art
