@@ -7,8 +7,11 @@ During this week of Creative Computing, I wanted to dedicate my research to the 
 Looking further into the theme of digital art, I learned about a new technological era and style: **Generative Art and Evolutionism**. John Latham was “one of the early computer artists who considered aesthetics as one of the key elements to drive our efforts in redesigning nature”. Artists of this style translated images to text, code, or binary numbers. 
 
 ![alt text](https://creators-images.vice.com/content-images/contentimage/no-slug/1bb959183961b1fefcaf8ae0e14c32aa.jpg?resize=1600:*)
+![alt text](https://creators-images.vice.com/content-images/contentimage/no-slug/e4814c0210c8f9b60e7e9a702c0f172e.jpg?resize=1600:*)
 ONE OF THE FIRST COILED FORMS LATHAM PRODUCED AT IBM’S UK BRANCH. 1987
 
+A Russian design studio has developed an AI designer and, for over a year, have been passing it off as a human. To date, the network has been used successfully in over 20 of the commercial projects. By taking bold and unexpected steps, AI was able to create a genuinely new, innovative works and designs. 
+)
 <img src="images/4.png"/>
 
 <p float="left">
