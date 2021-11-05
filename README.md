@@ -13,7 +13,7 @@ ONE OF THE FIRST COILED FORMS LATHAM PRODUCED AT IBM’S UK BRANCH. 1987
 A Russian design studio **ART.LEBEDEV** has developed an AI designer and, for over a year, have been passing it off as a human. To date, the network has been used successfully in over 20 of the commercial projects. By taking bold and unexpected steps, AI was able to create a genuinely new, innovative works and designs. 
 
 ![alt text](https://officelife.media/upload/iblock/a82/a8299de3a6c2343ed40eedaa6db2e06b.jpg)
-EXAMPLES OF THE COMMERSIAL DESING PRODUCTS MADE MY AI
+EXAMPLES OF THE COMMERSIAL DESING PRODUCTS MADE BY AI
 
 ### PRINCIPLES OF THE GENERATIVE ART:
 Generative art explores processes of algorithmically generating new ideas. First, you create rules that provide boundaries for the creation process; then a computer follows these rules to produce new works on your behalf. By incorporating change into a piece of code art, you get a different, unique piece of art each time you run your script, load your page, or respond to some user interactions. Through these processes artist can create innovative digital art pieces and easily share it with the online and on-site audience. Furthermore, through working with computer programs we assist technological progress in different areas of life. 
