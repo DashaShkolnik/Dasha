@@ -41,4 +41,5 @@ https://booksc.org/book/8989207/bdc372
 https://booksc.org/book/81336155/d2fbd8   
 https://aiartists.org/generative-art-design    
 https://en.wikipedia.org/wiki/Generative_art    
-https://www.freecodecamp.org/news/an-introduction-to-generative-art-what-it-is-and-how-you-make-it-b0b363b50a70/
+https://www.freecodecamp.org/news/an-introduction-to-generative-art-what-it-is-and-how-you-make-it-b0b363b50a70/   
+https://vk.com/away.php?to=https%3A%2F%2Fwww.apress.com%2Fgp%2Fblog%2Fall-blog-posts%2Fdrawing-random-lines-in-python%2F16975626&cc_key=
