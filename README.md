@@ -18,6 +18,7 @@ EXAMPLES OF THE COMMERSIAL DESING PRODUCTS MADE MY AI
 ### PRINCIPLES OF THE GENERATIVE ART:
 Generative art explores processes of algorithmically generating new ideas. First, you create rules that provide boundaries for the creation process; then a computer follows these rules to produce new works on your behalf. By incorporating change into a piece of code art, you get a different, unique piece of art each time you run your script, load your page, or respond to some user interactions. Through these processes artist can create innovative digital art pieces and easily share it with the online and on-site audience. Furthermore, through working with computer programs we assist technological progress in different areas of life. 
 
+As a part of my physical investigation, I researched some simple coding systems and was able to **generate a gif, where computer draw random lines every few seconds**. I found this process very difficult, but incredibly exciting. It was my first experiment with the generative art and I was deligted to spend many hours on it to understand how everything works and create a desired outcome.
 
 <p float="left">
   <img src="images/1.PNG" width="250" height="250"/>
