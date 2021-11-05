@@ -11,8 +11,9 @@ Looking further into the theme of digital art, I learned about a new technologic
 ONE OF THE FIRST COILED FORMS LATHAM PRODUCED AT IBM’S UK BRANCH. 1987
 
 A Russian design studio has developed an AI designer and, for over a year, have been passing it off as a human. To date, the network has been used successfully in over 20 of the commercial projects. By taking bold and unexpected steps, AI was able to create a genuinely new, innovative works and designs. 
-)
-<img src="images/4.png"/>
+
+![alt text](https://officelife.media/upload/iblock/a82/a8299de3a6c2343ed40eedaa6db2e06b.jpg)
+EXAMPLES OF THE COMMERSIAL DESING PRODUCTS MADE MY AI
 
 <p float="left">
   <img src="images/1.PNG" width="250" height="250"/>
