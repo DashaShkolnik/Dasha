@@ -35,9 +35,9 @@ For me it was a life-changing field of knowledge, because now I am interested in
 
 
 
-<https://www.artlebedev.com/ironov/>
-<https://booksc.org/book/8989207/bdc372>
-https://booksc.org/book/81336155/d2fbd8
-https://aiartists.org/generative-art-design
-https://en.wikipedia.org/wiki/Generative_art
+https://www.artlebedev.com/ironov/.  
+https://booksc.org/book/8989207/bdc372.       
+https://booksc.org/book/81336155/d2fbd8.   
+https://aiartists.org/generative-art-design.    
+https://en.wikipedia.org/wiki/Generative_art.    
 https://www.freecodecamp.org/news/an-introduction-to-generative-art-what-it-is-and-how-you-make-it-b0b363b50a70/
