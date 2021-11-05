@@ -21,6 +21,7 @@ Generative art explores processes of algorithmically generating new ideas. First
 ### PERSONAL EXPERIMENT:
 As a part of my physical investigation, I researched some simple coding systems and was able to **generate a gif, where computer draw random lines every few seconds**. I found this process very difficult, but incredibly exciting. It was my first experiment with the generative art and I was deligted to spend many hours on it to understand how everything works and create a desired outcome.
 
+<img src="images/4">
 <p float="left">
   <img src="images/1.PNG" width="250" height="250"/>
   <img src="images/2.PNG" width="250" height="250"/> 
