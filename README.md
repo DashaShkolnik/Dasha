@@ -1,5 +1,5 @@
-# YEADBAJAKLA
-KJVKBBKDJKA
+#I AM AN ARTIST, WHY DO I NEED TO KNOW HOW TO CODE??
+
 
 <img src="images/4.png"/>
 
