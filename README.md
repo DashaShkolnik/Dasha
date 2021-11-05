@@ -21,7 +21,7 @@ Generative art explores processes of algorithmically generating new ideas. First
 ### PERSONAL EXPERIMENT:
 As a part of my physical investigation, I researched some simple coding systems and was able to **generate a gif, where computer draw random lines every few seconds**. I found this process very difficult, but incredibly exciting. It was my first experiment with the generative art and I was deligted to spend many hours on it to understand how everything works and create a desired outcome.
 
-<img src="images/4">
+<img src="images/4.png">
 <p float="left">
   <img src="images/1.PNG" width="250" height="250"/>
   <img src="images/2.PNG" width="250" height="250"/> 
@@ -31,7 +31,7 @@ As a part of my physical investigation, I researched some simple coding systems 
 <img src="images/run_prog.gif" width="650" height="500"/>
 
 ### CONCLUSION:
-For me it was a life-changing field of knowledge, because now I am interested in learning how to integrate my art ills on the new level of technology and create innovative art pieces. I believe that changes would always lead to a better working practice and my own development as a designer and artist. Generative art gives you a lot of areas where you can show your skills and create amazing art pieces with a number of special effec colours and lighting, which cannot be physically obtained in real life painting, for example. Nevertheless, you still don’t lose your unique style of drawing/printing/photographing/film making, but rather integrate your practice to the mechanical processes and gain an ability to produce a larger number of art pieces or designs with the sense of randomness. Now, I know that I was wrong that I limited myself and didn’t want to learn how to code. Today, I see a great opportunity how to grow together with art and computers!
+For me it was a life-changing field of knowledge, because now I am interested in learning how to integrate my art skills on the new level of technology and create innovative art pieces. I believe that changes would always lead to a better working practice and my own development as a designer and artist. Generative art gives you a lot of areas where you can show your skills and create amazing art pieces with a number of special effects, colours and lighting, which cannot be physically obtained in real life painting, for example. Nevertheless, you still don’t lose your unique style of drawing/printing/photographing/film making, but rather integrate your practice to the mechanical processes and gain an ability to produce a larger number of art pieces or designs with the sense of randomness. Now, I know that I was wrong that I limited myself and didn’t want to learn how to code. Today, I see a great opportunity how to grow together with art and computers!
 
 
 
